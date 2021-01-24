@@ -1,4 +1,3 @@
-OSWE Review
 
 Al haber aprobado el examen hace muy poco realizaré un review un poco más extenso a los anteriores y trataré de explicar cuales son los pasos que seguí para prepararme para esta certificación. 
 El contenido del curso se actualizó hace un par de meses atrás, pueden ver el contenido en el siguiente enlace: https://www.offensive-security.com/documentation/awae-syllabus.pdf
