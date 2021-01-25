@@ -16,9 +16,9 @@ Como me seguí preparando:
 
 Tomé un par de cursos de programación por Udemy (para soltar los dedos), si bien programo, necesitaba aprender sobre los lenguajes que entran en el curso y entender los diferentes flujos, los cursos que tomé son los siguientes:
 
-•	https://www.udemy.com/course/node-de-cero-a-experto/
-•	https://www.udemy.com/course/python-sin-fronteras-html-css-mysql/
-•	https://www.udemy.com/course/crea-sistemas-web-asp-net-core-mvc-entity-framework-ajax/ (este no lo recomiendo, no me gustó)
+*	https://www.udemy.com/course/node-de-cero-a-experto/
+*	https://www.udemy.com/course/python-sin-fronteras-html-css-mysql/
+*	https://www.udemy.com/course/crea-sistemas-web-asp-net-core-mvc-entity-framework-ajax/ (este no lo recomiendo, no me gustó)
 
 Luego sentirme más cómodo, haber soltado los dedos, haber programado un par de cosas para practicar, volví a tomar el curso, pero por 60 días.  En esta ocasión realicé todo el curso nuevamente y todos los ejercicios adicionales. Además, automaticé todos los exploit que se enseñan en el curso, esto me ayudo mucho para seguir aprendiendo. 
 
@@ -33,13 +33,13 @@ Al ser un examen grabado, compartí mis 3 pantallas (ayuda mucho tener 3 y no 2)
 
 Algunos consejos:
 
-•	Ser ordenado, tanto en las notas del curso como en los avances del examen.
-•	Tomar descansos (15 a 20 min) para poder despejar la mente. (entre medio me jugué unos fifas).
-•	La noche anterior dormí bien, traté de descansar lo que más pude. 
-•	Me compré unas energéticas y tomé mucha agua. 
-•	Cuando las cosas no funcionan pensar fuera de la caja, realizar una revisión y volver a empezar (creo que esto es muy importante).
-•	Personalmente me costó identificar las diferentes vulnerabilidades, pero no su explotación.
-•	Nunca rendirse.
+*	Ser ordenado, tanto en las notas del curso como en los avances del examen.
+*	Tomar descansos (15 a 20 min) para poder despejar la mente. (entre medio me jugué unos fifas).
+*	La noche anterior dormí bien, traté de descansar lo que más pude. 
+*	Me compré unas energéticas y tomé mucha agua. 
+*	Cuando las cosas no funcionan pensar fuera de la caja, realizar una revisión y volver a empezar (creo que esto es muy importante).
+*	Personalmente me costó identificar las diferentes vulnerabilidades, pero no su explotación.
+*	Nunca rendirse.
 
 Conclusiones
 
@@ -49,8 +49,9 @@ Recomiendo el curso a todas las personas que quieran empezar a realizar research
 
 Quiero también dejar un review que considero importante (o al menos a mí me ayudó):
 
-https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside
+* https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside
 
 Por último, estos 2 github que también fueron de utilidad:
-•	https://github.com/timip/OSWE
-•	https://github.com/deletehead/awae_oswe_prep
+
+*	https://github.com/timip/OSWE
+*	https://github.com/deletehead/awae_oswe_prep
