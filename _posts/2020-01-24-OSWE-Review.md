@@ -28,6 +28,7 @@ Recomiendo, ir tomando notas de todos los puntos del curso, por ejemplo: instruc
 El examen
 
 El examen es bastante duro (a mi parecer), hay varios review en internet que son bastante completos (leí bastantes antes de tomar el mío) y cada uno es diferente en la forma de enfrentar el desafío, creo enormemente que va a depender de la experiencia previa de la persona. Si bien, el curso entrega todo lo necesario para abordar el examen como corresponde.
+
 Al ser un examen grabado, compartí mis 3 pantallas (ayuda mucho tener 3 y no 2) y cada vez que me paraba por un descanso debía avisar, al igual que al volver. Afortunadamente, tengo un espacio de trabajo cómodo donde me puedo encerrar sin problemas. 
 
 Algunos consejos:
@@ -43,7 +44,7 @@ Conclusiones
 
 Agradecer a Offsec por el gran curso, a mi me enseñó mucho, fue muy entretenido, estudié bastante (me costó) y sobre todo me llevó a esforzarme más. 
 
-Recomiendo el curso a todas las personas que quieran empezar a realizar research de aplicaciones WEB, la metodología entrega es muy buena y me abrió la mente para seguir avanzando.
+Recomiendo el curso a todas las personas que quieran empezar a realizar research de aplicaciones WEB, la que metodología entrega es muy buena y me abrió la mente para seguir avanzando.
 
 Quiero también dejar un review que considero importante (o al menos a mí me ayudó):
 
