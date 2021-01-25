@@ -1,3 +1,8 @@
+---
+layout: post
+title: OSWP Review
+---
+
 A diferencias de otros cursos de offsec, en este no hay un laboratorio online, esto quiere decir que uno tiene que armas sus propios laboratorios. El material que te entregan es suficientemente claro para poder armar los laboratorios y practicar las técnicas que enseñan para romper las diferentes redes. 
 Las cosas que rescato del curso son las siguientes:
 
