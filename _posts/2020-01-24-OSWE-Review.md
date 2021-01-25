@@ -44,7 +44,7 @@ Conclusiones
 
 Agradecer a Offsec por el gran curso, a mi me enseñó mucho, fue muy entretenido, estudié bastante (me costó) y sobre todo me llevó a esforzarme más. 
 
-Recomiendo el curso a todas las personas que quieran empezar a realizar research de aplicaciones WEB, la que metodología entrega es muy buena y me abrió la mente para seguir avanzando.
+Recomiendo el curso a todas las personas que quieran empezar a realizar research de aplicaciones WEB, la metodología que entrega es muy buena y me abrió la mente para seguir avanzando.
 
 Quiero también dejar un review que considero importante (o al menos a mí me ayudó):
 
