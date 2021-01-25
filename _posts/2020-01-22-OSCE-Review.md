@@ -1,3 +1,8 @@
+---
+layout: post
+title: OSCE Review
+---
+
 Luego de tomar OSCP el paso lógico es OSCE, luego de explotar mis primeros buffers overflow la cabeza me explotó y creo que encontré mi área favorita. 
 
 Antes de tomar el curso, me preparé unos 3 meses antes estudiando el material de fuzzysecurity (https://www.fuzzysecurity.com/), específicamente los tutoriales de “Windows Exploit Development Tutorial Series”:
