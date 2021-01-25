@@ -8,9 +8,9 @@ Tomé el curso el año 2017, han pasado varios años y nunca había escrito un r
 Cuando decidí tomar el curso no había mucha información sobre la certificación disponible, existían algunos review en inglés y no había tantas plataformas como hoy en día para practicar, recuerdo que no existía (o al menos yo no conocía hackthebox). Por lo que mi preparación para el examen fue netamente el laboratorio del curso. 
 Decidí pagar los 90 días de laboratorio, algo que recuerdo que había leído en algún lado era lo siguiente:
 
-•	Si trabajas compra 90 días
-•	Si solo estudias compra 60 días
-•	Si solo te dedicarás al curso compra 30 días
+*	Si trabajas compra 90 días
+*	Si solo estudias compra 60 días
+*	Si solo te dedicarás al curso compra 30 días
 
 En ese entonces trabajaba como pentester a tiempo completo (bueno hasta el día de hoy) por lo que la decisión fue de 90 días (y fue la decisión correcta).
 Estudiaba después del trabajo unas 3 horas diarias aproximadamente y los fines de semana todo lo que podía. Si calculo las horas deben haber sido entre 30 y 40 horas a la semana de estudio. 
