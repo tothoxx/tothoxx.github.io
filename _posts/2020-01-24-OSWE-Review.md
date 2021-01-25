@@ -32,6 +32,7 @@ El examen es bastante duro (a mi parecer), hay varios review en internet que son
 Al ser un examen grabado, compartí mis 3 pantallas (ayuda mucho tener 3 y no 2) y cada vez que me paraba por un descanso debía avisar, al igual que al volver. Afortunadamente, tengo un espacio de trabajo cómodo donde me puedo encerrar sin problemas. 
 
 Algunos consejos:
+
 •	Ser ordenado, tanto en las notas del curso como en los avances del examen.
 •	Tomar descansos (15 a 20 min) para poder despejar la mente. (entre medio me jugué unos fifas).
 •	La noche anterior dormí bien, traté de descansar lo que más pude. 
