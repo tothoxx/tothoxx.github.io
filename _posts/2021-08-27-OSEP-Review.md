@@ -20,7 +20,7 @@ Personalmente me gustó mucho como se aborda cada uno de los módulos, no me que
 *	Realizar el ejercicio.
 *	Repasar.
 
-Si luego de eso aun me quedan dudas voy al foro de Offsec y luego al discord (es primer curso que uso el discord y realmente es muy bueno, conoció gente muy buena y el ambiente es genial).
+Si luego de eso aun me quedan dudas voy al foro de Offsec y luego al discord (es primer curso que uso el discord y realmente es muy bueno, conocí gente muy buena y el ambiente es genial).
 
 Dada mi experiencia previa, mucho del material del curso lo conocía y lo había usado en mi trabajo diario, lo que me facilitó mucho las cosas para poder profundizar aún mucho más, lo que realmente se agradece y otra parte del curso me hizo volar la cabeza y absorbí conocimiento como esponja, me motivaba y quería seguir aprendiendo. El contenido es demasiado bueno, es actual, se usa en el día a día y permite profundizar aún mucho más en cada uno de los temas que se van presentando.
 
