@@ -48,8 +48,7 @@ Una buena recomendación que si puedo dar es automatizar lo que más se pueda, y
 Conclusión
 
 El curso es muy bueno, realmente el contenido se puede aplicar en los ejercicios y el trabajo diario lo que lo hace genial.
-No puedon dejar fuera de la conclusión a BloodHound, que herramienta!!!!
-
+No puedo dejar fuera de la conclusión a BloodHound, que herramienta!!!!
 
 Personalmente me costó mucho más AWAE que OSEP pero creo que tiene que ver con las habilidades que tiene cada uno y experiencia previa que pueda existir. 
 
