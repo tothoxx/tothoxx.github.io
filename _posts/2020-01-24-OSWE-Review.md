@@ -16,7 +16,7 @@ Gran parte del curso hay que leer código y personalmente no estaba acostumbrado
 Preparación
 
 Cómo decía anteriormente, tomé el curso por 30 días, pero el examen aun no estaba disponible (pagué cuando recién había salido el curso), esto me jugó en contra ya que no me acordaba de muchas cosas cuando tomé el examen (fallé mi primer intento). Esto me llevó a esforzarme más, tomar nota de lo que me faltaba aprender y no decaer ante el fracaso. 
-Como me seguí preparando:
+Cómo me seguí preparando
 
 Tomé un par de cursos de programación por Udemy (para soltar los dedos), si bien programo, necesitaba aprender sobre los lenguajes que entran en el curso y entender los diferentes flujos, los cursos que tomé son los siguientes:
 
