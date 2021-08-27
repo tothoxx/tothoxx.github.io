@@ -38,12 +38,19 @@ Los challenge son extremadamente importantes, recomiendo pasar todos los challen
 Examen
 
 Aunque no se puede hablar del examen, Offsec entrega una guía https://help.offensive-security.com/hc/en-us/articles/360050293792 que recomiendo leer antes de dar el examen ya que hay algunos detalles importantes. 
-El curso prepara muy bien para rendir un buen examen, si el curso se hace a conciencia realizando todos los ejercicios, extra mile y challenge no debería haber ningún problema. Al igual que en otras certificaciones son 48 horas para rendir el examen y 24 más para poder entregar el informe. 
+
+El curso prepara muy bien para rendir un buen examen, si el curso se hace a conciencia realizando todos los ejercicios, extra mile y challenge no debería haber ningún problema. 
+
+Al igual que en otras certificaciones son 48 horas para rendir el examen y 24 más para poder entregar el informe. 
+
 Una buena recomendación que si puedo dar es automatizar lo que más se pueda, ya que ahorra bastante tiempo.
  
 Conclusión
 
-El curso es muy bueno, realmente el contenido se puede aplicar en los ejercicios y el trabajo diario lo que lo hace genial. Yo recomiendo 100 % OSEP.
+El curso es muy bueno, realmente el contenido se puede aplicar en los ejercicios y el trabajo diario lo que lo hace genial.
+No puedon dejar fuera de la conclusión a BloodHound, que herramienta!!!!
+
+
 Personalmente me costó mucho más AWAE que OSEP pero creo que tiene que ver con las habilidades que tiene cada uno y experiencia previa que pueda existir. 
 
 Por último, algunos review que leí antes de tomar el curso y que les puede servir a otras personas:
