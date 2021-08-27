@@ -32,7 +32,7 @@ El contenido del curso prepara completamente para poder rendir el examen sin nin
 
 Laboratorios y challenge
 
-Los laboratorios son muy buenos, todos muy bien explicados y todos entregan las herramientas necesarias para poder aprender y resolver cada uno de los ejercicios. Tal vez un poco lentos algunas máquinas para poder desarrollar, aunque puede ser mi conexión a Internet. 
+Los laboratorios son muy buenos, todos muy bien explicados y todos entregan las herramientas necesarias para poder aprender y resolver cada uno de los ejercicios. Tal vez un poco lentos en algunas máquinas para poder desarrollar, aunque puede ser mi conexión a Internet. 
 Los challenge son extremadamente importantes, recomiendo pasar todos los challenge al igual que los extra mile, marca una diferencia muy grande además de ser muy entretenidos obliga a realizar un repaso completo por cada uno de los módulos que al ser 17 es fácil olvidar algunas cosas mientras se va avanzando. 
 
 Examen
