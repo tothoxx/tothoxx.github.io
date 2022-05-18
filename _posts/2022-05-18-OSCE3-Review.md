@@ -1,4 +1,7 @@
-### OSCE3 Review
+---
+layout: post
+title: OSCE3 Review
+---
 
 Al haber obtenido las 3 certificaciones de Offensive Security (OSWE - OSEP - OSED) me han otorgado la certificación OSCE3, he realizado un review por cada una de las certificaciones que he realizado en los siguientes links:
 
