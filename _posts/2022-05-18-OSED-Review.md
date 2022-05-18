@@ -1,3 +1,8 @@
+---
+layout: post
+title: OSED Review
+---
+
 Acabo de aprobar el examen del curso de Offensive Security Windows User Mode Exploit Development (EXP-301), el cual me permitió obtener la certificación de Offensive Security Exploit Development (OSED) y su vez terminar el path y obtener mi certificación OSCE3.
 
 LA OSED era el último curso que me faltaba para obtener la certificación OSCE3 por lo que me tenía muy motivado, personalmente el desarrollo de exploit es algo que me gusta mucho, por lo que el curso lo disfrute demasiado, creo que es un curso extremadamente bueno, muy entretenido con grandes desafíos y que permiten seguir aprendiendo en cada uno de sus capítulos. Si te gusta el desarrollo de exploit y la ingeniería inversa, este curso es para ti. 
